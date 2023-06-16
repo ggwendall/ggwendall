@@ -1,6 +1,6 @@
 ### Hi there 😄
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ggwendall)](https://github.com/ggwendall/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ggwendall&show_icons=true&theme=radical)](https://github.com/ggwendall/github-readme-stats)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ggwendall.readme)
 
@@ -11,12 +11,12 @@
 - 🌱 I’m currently learning Laravel / Vue.js / Kubernetes / TypeScript / AdonisJS / TailwindCSS / Firebase
 
 ## Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/eltociear/posts.svg)](http://qiita.com/ggwendall)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/eltociear/contributions.svg)](http://qiita.com/ggwendall)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ggwendall/posts.svg)](http://qiita.com/ggwendall)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ggwendall/contributions.svg)](http://qiita.com/ggwendall)
 
 ## Social accounts
-* https://www.linkedin.com/in/gwendal-qu%C3%A9net-a27503186/
-* https://www.instagram.com/gwendal_quenet/
+[Linkden](https://www.linkedin.com/in/gwendal-qu%C3%A9net-a27503186/)!
+[Instagram](https://www.instagram.com/gwendal_quenet/)!
 
 ## My Website
 This is My WebSite.
