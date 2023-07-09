@@ -22,12 +22,6 @@
   <br>
 </p>
 
-<div align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=I-Am-Jakoby&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-</div>
-
-<hr>
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=ggwendall.readme)
 
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/597ac6fb-d4c2-491c-9de7-5a7211a641ba)
