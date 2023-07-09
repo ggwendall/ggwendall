@@ -2,8 +2,6 @@
 
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
 
-<hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
