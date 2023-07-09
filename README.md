@@ -1,4 +1,4 @@
-![Bottom](https://github.com/ggwendall/ggwendall/assets/48108275/1f58de6a-f411-45fd-86a6-e9aa673332e6)### Hi there 😄
+### Hi there 😄
 
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
 
@@ -136,13 +136,6 @@
 
 <br/>
 
-![image](https://github.com/ggwendall/ggwendall/assets/48108275/b818a74a-bec8-4b27-86d2-1690e747c690)
-
-
-## Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ggwendall/posts.svg)](http://qiita.com/ggwendall)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ggwendall/contributions.svg)](http://qiita.com/ggwendall)
-
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/0210b84b-4629-4660-8976-9e96e5f245b2)
 
 <!-- CONTACT --> 
@@ -252,6 +245,8 @@ svg {
   <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
 </svg>
 vg…]()
+
+![Bottom](https://github.com/ggwendall/ggwendall/assets/48108275/1f58de6a-f411-45fd-86a6-e9aa673332e6)
 
 <!--
 **ggwendall/ggwendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
