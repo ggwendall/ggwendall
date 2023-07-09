@@ -138,6 +138,32 @@
 
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/0210b84b-4629-4660-8976-9e96e5f245b2)
 
+<div align=center>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div width="100%" align="center">
+      
+  <a align="left" href="https://github.com/I-Am-Jakoby/PowerShell-for-Hackers" title="PowerShell-for-Hackers"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=PowerShell-for-Hackers&theme=radical"></a>
+
+  <a align="right" href="https://github.com/I-Am-Jakoby/hak5-submissions" title="Hak5 Submissions"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=hak5-submissions&theme=radical"></a>
+
+  <a align="left" href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" title="Flipper Zero badUSB"><img align="Left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Flipper-Zero-BadUSB&theme=radical"></a>
+
+  <a align="left" href="https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter" title="Powershell-to-Ducky-Converter"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=I-Am-Jakoby&repo=Powershell-to-Ducky-Converter&theme=radical"></a>
+
+</div>
+<br><br>
+<h4 align="center">
+  <a href="https://github.com/I-Am-Jakoby?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<br><br><br>
 <!-- CONTACT --> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
