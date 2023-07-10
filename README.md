@@ -1,4 +1,5 @@
-### Hi there 😄
+
+![banner](https://github.com/ggwendall/ggwendall/assets/48108275/287246b2-caed-44ec-abda-eec5c034da2f)
 
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
 
