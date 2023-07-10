@@ -166,7 +166,7 @@
 
 <div width="100%" align="center">
       
-  <a align="left" href="https://github.com/ggwendall/Titanic_ML" title="Kaggle challenge"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ggwendall&repo=Titanic_MLs&theme=radical"></a>
+  <a align="left" href="https://github.com/ggwendall/Titanic_ML" title="Kaggle challenge"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ggwendall&repo=Titanic_ML&theme=radical"></a>
 
   <a align="right" href="https://github.com/ggwendall/Tracking_project" title="Face+Hand Tracking"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ggwendall&repo=Tracking_project&theme=radical"></a>
 
