@@ -198,25 +198,25 @@
       <br>YouTube
     </td>
     <td align="center" width="96">
-      <a href="https://twitter.com/I_Am_Jakoby">
+      <a href="https://twitter.com/CTgwen29">
         <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/twitter.png width="48" height="48" alt="Python" />
       </a>
       <br>Twitter
     </td>
     <td align="center" width="96">
-      <a href="https://www.instagram.com/i_am_jakoby/">
+      <a href="https://www.instagram.com/gwendal_quenet/">
         <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/insta.png width="48" height="48" alt="Golang" />
       </a>
       <br>Instagram
     </td>
     <td align="center" width="96">
-      <a href="https://discord.gg/MYYER2ZcJF">
+      <a href="https://discord.gg/">
         <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/discord-v2-svgrepo-com.svg width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Discord
     </td>
     <td align="center" width="96">
-      <a href="https://www.tiktok.com/@i_am_jakoby?lang=en">
+      <a href="https://www.tiktok.com/">
         <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/tiktok.svg width="48" height="48" alt="Jsonnet" />
       </a>
       <br>TikTok
