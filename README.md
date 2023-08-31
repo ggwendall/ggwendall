@@ -185,46 +185,6 @@
 <br><br><br>
 <!-- CONTACT --> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">📱 My social accounts 📱</h2>
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://youtube.com/c/IamJakoby?sub_confirmation=1">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/youtube-svgrepo-com.svg width="48" height="48" alt="C#" />
-      </a>
-      <br>YouTube
-    </td>
-    <td align="center" width="96">
-      <a href="https://twitter.com/CTgwen29">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/twitter.png width="48" height="48" alt="Python" />
-      </a>
-      <br>Twitter
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.instagram.com/gwendal_quenet/">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/insta.png width="48" height="48" alt="Golang" />
-      </a>
-      <br>Instagram
-    </td>
-    <td align="center" width="96">
-      <a href="https://discord.gg/">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/discord-v2-svgrepo-com.svg width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tiktok.com/">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/tiktok.svg width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>TikTok
-    </td>    
-  </tr>
-</table>
-</div>
-
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/f276c135-3d69-4dfe-bf60-b74321ab871f)
 
 ## My Website
