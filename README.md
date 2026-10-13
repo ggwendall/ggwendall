@@ -24,10 +24,10 @@
 
 | Domaine | Technologies & Outils |
 | :--- | :--- |
-| **Langages** | `Python` `JavaScript` `C#` `PHP` `C++` |
-| **Frameworks Web** | `React` `Angular` `FastAPI` `Flask` |
+| **Langages** | `Python` `JavaScript` `PHP` `HTML/CSS/SCC` |
+| **Frameworks Web** | `React` `ShadCN` `Tailwuind` `FastAPI` `Flask` |
 | **IA & Data** | `Hugging Face` `Scikit-Learn` `Pandas` `OpenCV` |
-| **Cloud & DevOps** | `Azure` `Docker` `Git` `Linux` |
+| **Cloud & DevOps** | `Azure` `AWS` `Docker` `Git` `Linux` |
 
 ---
 
@@ -61,16 +61,12 @@
 
 ---
 
-### 🏅 Badges & Certifications Cloud
-
-### 🎖️ Certifications & Badges Cloud
+### 🎖️ Certifications & Badges Cloud (Microsoft Learn)
 
 <p align="center">
-  <img src="https://learn.microsoft.com/media/learn/achievements/describe-cloud-computing-badge.svg" width="95" height="95" alt="Describe Cloud Computing" />
-  &nbsp;&nbsp;
-  <img src="https://learn.microsoft.com/media/learn/achievements/describe-benefits-using-cloud-services-badge.svg" width="95" height="95" alt="Benefits of Cloud Services" />
-  &nbsp;&nbsp;
-  <img src="https://learn.microsoft.com/media/learn/achievements/describe-cloud-service-types-badge.svg" width="95" height="95" alt="Describe Cloud Service Types" />
+  <img src="https://img.shields.io/badge/Microsoft_Learn-Describe_Cloud_Computing-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" alt="Describe Cloud Computing" />
+  <img src="https://img.shields.io/badge/Microsoft_Learn-Benefits_of_Cloud_Services-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" alt="Benefits of Cloud Services" />
+  <img src="https://img.shields.io/badge/Microsoft_Learn-Describe_Cloud_Service_Types-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" alt="Describe Cloud Service Types" />
 </p>
 
 ---
@@ -81,20 +77,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/Quenet_Gwendall" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="40" height="40" alt="Website" />
+  <a href="https://gwendev.vercel" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  &nbsp;&nbsp
+  <a href="https://github.com/ggwendall" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft/default.svg" width="40" height="40" alt="Microsoft Learn" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:gwenquenet@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
