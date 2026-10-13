@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/ggwendall/ggwendall/assets/48108275/39b1200f-08ef-4548-bdad-c114feb5b18c" width="100%" />
-</div>
-
-<h1 align="center">Salut, moi c'est Gwendall ! 👋</h1>
+<h1 align="center">Salut, moi c'est Gwendal ! 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ggwendall&color=blue&style=flat-square" alt="visitors" />
@@ -21,31 +17,47 @@ Passionné par l'informatique, les jeux vidéo et les nouvelles technologies, j'
 
 ---
 
-### 🛠️ Ma Stack Technique
+### 🛠️ Ma Stack Technique & Compétences
 
 <p align="center">
-  <!-- Langages -->
+  <br>
+  <!-- 💻 Langages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br>
-  <!-- Frameworks & Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br><br>
+  <!-- 🌐 Web & Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <br>
-  <!-- IA & Data -->
+  
+  <br><br>
+  <!-- 🤖 IA & Data -->
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=databricks&logoColor=white" />
-  <br>
-  <!-- Outils & Infra -->
+  
+  <br><br>
+  <!-- ⚙️ Outils, Infra & Cloud -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile-38A169?style=for-the-badge&logo=agilealliance&logoColor=white" />
+</p>
+
+---
+
+### 🏅 Certifications & Badges Cloud (Microsoft Learn)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Learn-Describe_Cloud_Computing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Learn-Benefits_of_Cloud_Services-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Learn-Describe_Cloud_Service_Types-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
