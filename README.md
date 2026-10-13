@@ -64,9 +64,11 @@
 ### 🎖️ Certifications & Badges Cloud (Microsoft Learn)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Learn-Describe_Cloud_Computing-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" alt="Describe Cloud Computing" />
-  <img src="https://img.shields.io/badge/Microsoft_Learn-Benefits_of_Cloud_Services-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" alt="Benefits of Cloud Services" />
-  <img src="https://img.shields.io/badge/Microsoft_Learn-Describe_Cloud_Service_Types-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" alt="Describe Cloud Service Types" />
+  <img src="https://images.credly.com/size/160x160/images/be800b65-6188-4678-a28d-19cd1d37e2a9/GCC_badge_python_1000x1000.png" width="90" height="90" alt="Describe Cloud Computing" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.credly.com/size/160x160/images/22e50523-2895-46b0-95b6-76495be15f2a/azure-fundamentals-600x600.png" width="90" height="90" alt="Benefits of Cloud Services" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.credly.com/size/160x160/images/737877e7-a9a3-4b6a-939e-dd9147e09efb/azure-ai-fundamentals-600x600.png" width="90" height="90" alt="Describe Cloud Service Types" />
 </p>
 
 ---
