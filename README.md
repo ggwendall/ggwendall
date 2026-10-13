@@ -86,7 +86,7 @@ Passionné par l'informatique, les jeux vidéo et les nouvelles technologies, j'
 
 ### 📫 Me Contacter & Liens
 
-* 🌐 **Mon Portfolio :** [gwendev.vercel.app](https://gwendev.vercel)
+* 🌐 **Mon Portfolio :** [Cooming soon]()
 * 💼 **LinkedIn :** [Quenet Gwendall](https://www.linkedin.com/in/Quenet_Gwendall)
 * 📬 **Email :** gwenquenet@gmail.com
 
