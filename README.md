@@ -63,8 +63,38 @@
 
 ### 🏅 Badges & Certifications Cloud
 
+### 🎖️ Certifications & Badges Cloud
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Describe_Cloud_Computing-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Microsoft-Benefits_of_Cloud_Services-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Microsoft-Describe_Cloud_Service_Types-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=FFD700" />
+  <img src="https://learn.microsoft.com/media/learn/achievements/describe-cloud-computing-badge.svg" width="95" height="95" alt="Describe Cloud Computing" />
+  &nbsp;&nbsp;
+  <img src="https://learn.microsoft.com/media/learn/achievements/describe-benefits-using-cloud-services-badge.svg" width="95" height="95" alt="Benefits of Cloud Services" />
+  &nbsp;&nbsp;
+  <img src="https://learn.microsoft.com/media/learn/achievements/describe-cloud-service-types-badge.svg" width="95" height="95" alt="Describe Cloud Service Types" />
+</p>
+
+---
+
+<p align="center">
+  <i>📫 Retrouvez-moi ou contactez-moi sur mes réseaux !</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Quenet_Gwendall" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="40" height="40" alt="Website" />
+  </a>
+  &nbsp;&nbsp
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft/default.svg" width="40" height="40" alt="Microsoft Learn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gwenquenet@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+  </a>
 </p>
